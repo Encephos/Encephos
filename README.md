@@ -55,8 +55,6 @@ I build ultra-lightweight tools that solve real engineering pain points in AI pi
 
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
-
 <p align="center">
   <!-- Cache-Buster &v=1 hinzugefügt -->
   <img src="https://github-readme-stats.vercel.app/api?username=Encephos&show_icons=true&theme=radical&hide_border=true&v=1" height="150" alt="Encephos's GitHub Stats" />
