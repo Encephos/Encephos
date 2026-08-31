@@ -5,9 +5,7 @@
 <h3 align="center">Building lightweight, zero-dependency tools for the LLM ecosystem.</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/[Dein-LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" /></a>
-  <a href="mailto:[Deine-Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email" /></a>
-  <a href="https://twitter.com/[Dein-Twitter]"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" alt="Twitter" /></a>
+  <a href="mailto:magiltraun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email" /></a>
 </div>
 
 <br/>
