@@ -5,7 +5,7 @@
 <h3 align="center">Building lightweight, zero-dependency tools for the LLM ecosystem.</h3>
 
 <div align="center">
-  <a href="mailto:magiltraun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Encephos&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -58,6 +58,7 @@ I build ultra-lightweight tools that solve real engineering pain points in AI pi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Encephos&show_icons=true&theme=radical&hide_border=true" height="150" alt="Encephos's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Encephos&theme=radical&hide_border=true" height="150" alt="Encephos's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Encephos&layout=compact&theme=radical&hide_border=true" height="150" alt="Encephos's Top Languages" />
 </p>
 
 <br/>
