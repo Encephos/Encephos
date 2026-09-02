@@ -59,9 +59,9 @@ I build ultra-lightweight tools that solve real engineering pain points in AI pi
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Encephos&show_icons=true&theme=radical&hide_border=true&v=1" height="150" alt="Encephos's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Encephos&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="150" alt="Encephos's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Encephos&theme=radical&hide_border=true" height="150" alt="Encephos's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Encephos&layout=compact&theme=radical&hide_border=true&v=1" height="150" alt="Encephos's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Encephos&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="150" alt="Encephos's Top Languages" />
 </p>
 
 <br/>
