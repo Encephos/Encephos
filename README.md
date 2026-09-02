@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Encephos%20%F0%9F%91%8B&fontSize=70" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Encephos%20👋&fontSize=70" alt="Header" />
 </div>
 
 <h3 align="center">Building lightweight, zero-dependency tools for the LLM ecosystem.</h3>
@@ -43,20 +43,22 @@ I am a developer focused on making Large Language Models (LLMs), RAG pipelines, 
 
 I build ultra-lightweight tools that solve real engineering pain points in AI pipelines.
 
-<!-- *   🛡️ **[guardrail-lite](https://github.com/Encephos/guardrail-lite):** A zero-dependency security shield (PII masking, Injection defense, Base64 unpacking) running in <5ms. -->
-*   🔗 **[markdown-link-resolver](https://github.com/Encephos/markdown-link-resolver):** Prepares scraped docs & images (auto-base64) for Multimodal LLM ingestion.
-*   📊 **[html-table-rescuer](https://github.com/Encephos/html-table-rescuer):** A zero-dependency Python tool to extract messy HTML tables and convert them into clean, token-efficient Markdown tables for LLMs and RAG pipelines.
-*   ✂️ **[prompt-token-minifier](https://github.com/Encephos/prompt-token-minifier):** Strips code comments and JSON whitespace to drastically cut LLM API costs.
-*   🤖 **[function-schema-generator](https://github.com/Encephos/function-schema-generator):** Auto-generates Anthropic/OpenAI schemas directly from Python functions via `inspect`.
+*   🚑 **[json-healer-lite](https://github.com/Encephos/json-healer-lite):** Instantly repairs and parses malformed, truncated, or markdown-wrapped JSON strings from LLMs.
+*   ⚡ **[prompt-cache-optimizer](https://github.com/Encephos/prompt-cache-optimizer):** Formats prompt payloads for maximum caching hits on OpenAI and Anthropic to cut API costs.
+*   🤖 **[micro-agent-router](https://github.com/Encephos/micro-agent-router):** A minimalist, zero-dependency state machine for routing multi-step agent workflows.
+*   📝 **[md-to-text-lite](https://github.com/Encephos/md-to-text-lite):** Strips Markdown syntax and extracts clean, readable plain text for TTS, search indexing, and RAG.
 *   📉 **[json-to-toon-lite](https://github.com/Encephos/json-to-toon-lite):** Compresses JSON arrays into TOON format, saving up to 60% LLM tokens.
 *   📄 **[json-to-yaml-lite](https://github.com/Encephos/json-to-yaml-lite):** AST-based JSON to YAML converter without requiring `PyYAML`.
+*   🤖 **[function-schema-generator](https://github.com/Encephos/function-schema-generator):** Auto-generates Anthropic/OpenAI schemas directly from Python functions via `inspect`.
+*   📊 **[html-table-rescuer](https://github.com/Encephos/html-table-rescuer):** Extracts messy HTML tables and converts them into clean, token-efficient Markdown tables.
+*   ✂️ **[prompt-token-minifier](https://github.com/Encephos/prompt-token-minifier):** Strips code comments and JSON whitespace to drastically cut LLM API costs.
+*   🔗 **[markdown-link-resolver](https://github.com/Encephos/markdown-link-resolver):** Prepares scraped docs & images (auto-base64) for Multimodal LLM ingestion.
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <!-- Cache-Buster &v=1 hinzugefügt -->
   <img src="https://github-readme-stats.vercel.app/api?username=Encephos&show_icons=true&theme=radical&hide_border=true&v=1" height="150" alt="Encephos's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Encephos&theme=radical&hide_border=true" height="150" alt="Encephos's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Encephos&layout=compact&theme=radical&hide_border=true&v=1" height="150" alt="Encephos's Top Languages" />
